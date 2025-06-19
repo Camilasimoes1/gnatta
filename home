@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Candal:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Darker Grotesque:wght@600&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Carme:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Droid Sans:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela Gothic One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dhyana:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cambay:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caladea:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bevan:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bayon:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="wireframe-2">
+    		<div class="wireframe-2-child">
+    		</div>
+    		<div class="wireframe-2-item">
+    		</div>
+    		<div class="wireframe-2-inner">
+    		</div>
+    		<div class="home">HOME</div>
+    		<div class="compra">COMPRA</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<img class="r-1-icon" alt="casa" src="https://github.com/Camilasimoes1/gnatta/blob/main/aff54dd172a22a1cd460a6ee9cf48cab3a7a1369.png?raw=true">
+    		
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="seu-estilo-de">Seu estilo de viver bem</div>
+    		<div class="serra-gacha-litoral">Serra Gaúcha, Litoral Gaúcho e Catarinense</div>
+    		<div class="wireframe-2-child1">
+    		</div>
+    		<div class="compra1">COMPRA</div>
+    		<div class="tipo-de-imvel">TIPO DE IMÓVEL</div>
+    		<div class="localizao">LOCALIZAÇÃO</div>
+    		<div class="wireframe-2-child2">
+    		</div>
+    		<div class="wireframe-2-child3">
+    		</div>
+    		<div class="wireframe-2-child4">
+    		</div>
+    		<div class="os-melhores-imveis">Os melhores imóveis</div>
+    		<div class="wireframe-2-child5">
+    		</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="wireframe-2-child6">
+    		</div>
+    		<div class="wireframe-2-child7">
+    		</div>
+    		<div class="wireframe-2-child8">
+    		</div>
+    		<img class="oip-1-icon" alt="1" src="https://github.com/Camilasimoes1/gnatta/blob/main/7fe80c6f43dce90411a20855a0a3a97e0853fc9b.jpg?raw=true">
+    		
+    		<img class="captura-de-tela-2024-10-15-095" alt="2" src="https://github.com/Camilasimoes1/gnatta/blob/main/bf88c5a3057ec60e269730bcd4c34b1d07f89997.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-10-15-0951" alt="3" src="https://github.com/Camilasimoes1/gnatta/blob/main/b79888f9977f3701c8d425dc39eda8fb4b2db19e.png?raw=true">
+    		
+    		<div class="wireframe-2-child9">
+    		</div>
+    		<div class="login">LOGIN</div>
+    		<div class="cadastrar">CADASTRAR</div>
+    		<div class="wireframe-2-child10">
+    		</div>
+    		<div class="wireframe-2-child11">
+    		</div>
+    		
+    		
+    		<div class="wireframe-2-child12">
+    		</div>
+    		<div class="cadastre-seu-imvel">Cadastre seu imóvel</div>
+    		<div class="wireframe-2-child13">
+    		</div>
+    		<div class="wireframe-2-child14">
+    		</div>
+    		<div class="wireframe-2-child15">
+    		</div>
+    		<div class="wireframe-2-child16">
+    		</div>
+    		<div class="wireframe-2-child17">
+    		</div>
+    		<div class="wireframe-2-child18">
+    		</div>
+    		<div class="wireframe-2-child19">
+    		</div>
+    		<div class="wireframe-2-child20">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="cpf">CPF</div>
+    		<div class="tipo-de-imvel1">Tipo de imóvel</div>
+    		<div class="cep">CEP</div>
+    		<div class="estado">Estado</div>
+    		<div class="email">Email</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="enviar">ENVIAR</div>
+    		<img class="captura-de-tela-2024-10-15-094" alt="logo" src="https://github.com/Camilasimoes1/gnatta/blob/main/8da176c841b5c557784b688c5ef21579b03ceaf0.png?raw=true">
+    		
+    		<div class="lanamentos">LANÇAMENTOS</div>
+    		<div class="blog">BLOG</div>
+    		<div class="contato">CONTATO</div>
+    		<img class="oip-12-icon" alt="rio" src="https://github.com/Camilasimoes1/gnatta/blob/main/3fac197c60259367f0e4268bdf3b1375b28e2e4c.jpg?raw=true">
+    		
+    		<img class="melhores-cidades-de-santa-cata-icon" alt="sc" src="https://github.com/Camilasimoes1/gnatta/blob/main/13dadc96ebe863f7f7a516263a044b01f2276442.jpg?raw=true">
+    		
+    		<div class="wireframe-2-child21">
+    		</div>
+    		<div class="wireframe-2-child22">
+    		</div>
+    		<div class="wireframe-2-child23">
+    		</div>
+    		<div class="wireframe-2-child24">
+    		</div>
+    		<div class="wireframe-2-child25">
+    		</div>
+    		<div class="wireframe-2-child26">
+    		</div>
+    		<div class="wireframe-2-child27">
+    		</div>
+    		<div class="wireframe-2-child28">
+    		</div>
+    		<div class="wireframe-2-child29">
+    		</div>
+    		<div class="itapema-rua-270-container">
+      			<p class="itapema">
+        				<span>
+          					<span>Itapema</span>
+        				</span>
+      			</p>
+      			<p class="rua-270-26-meia-praia">
+        				<span>
+          					<span>Rua 270, 26, Meia Praia</span>
+        				</span>
+      			</p>
+      			<p class="rua-270-26-meia-praia">
+        				<span>
+          					<span>Sala 06</span>
+        				</span>
+      			</p>
+      			<p class="rua-270-26-meia-praia">
+        				<span>
+          					<span>Itapema - Santa Catarina</span>
+        				</span>
+      			</p>
+      			<p class="blank-line">
+        				<span>
+          					<span>&nbsp;</span>
+        				</span>
+      			</p>
+      			<p class="s-1900h">9:00 às 19:00h</p>
+    		</div>
+    		<div class="carlos-barbosa-rua-container">
+      			<p class="itapema">Carlos Barbosa</p>
+      			<p class="rua-270-26-meia-praia">Rua Júlio de Castilhos, 403,Centro Sala 01</p>
+      			<p class="rua-270-26-meia-praia">Carlos Barbosa - Rio Grande do Sul</p>
+      			<p class="rua-270-26-meia-praia">8:30 às 18:30</p>
+    		</div>
+    		<div class="wireframe-2-child30">
+    		</div>
+    		<div class="wireframe-2-child31">
+    		</div>
+    		<div class="div">(47) 99217-2044</div>
+    		<div class="div1">(54) 99977-9197</div>
+    		<div class="wireframe-2-child32">
+    		</div>
+    		<div class="rio-grande-do">Rio Grande do Sul</div>
+    		<div class="wireframe-2-child33">
+    		</div>
+    		<div class="santa-catarina">Santa Catarina</div>
+    		<div class="component-2">
+      			<div class="captura-de-tela-2024-10-15-115-parent">
+        				<img class="captura-de-tela-2024-10-15-115" alt="banner" src="https://github.com/Camilasimoes1/gnatta/blob/main/93e24e26594ca57b157e79af5a1de45697fcdfa4.png?raw=true">
+        				
+        				
+        				
+      			</div>
+    		</div>
+    		<img class="captura-de-tela-2024-10-15-120" alt="afi" src="https://github.com/Camilasimoes1/gnatta/blob/main/dc8b981cbfd9293c4f94a33f43ff2c942b421325.png?raw=true">
+    		
+    		<div class="wireframe-2-child34">
+    		</div>
+    		<img class="r-5-1" alt="" src="https://github.com/Camilasimoes1/gnatta/blob/main/466dbd5cd23b3df18526ae3e542f8438f540b88e.jpg?raw=true">
+    		
+    		<img class="r-6-1" alt="" src="https://github.com/Camilasimoes1/gnatta/blob/main/94b5f72e918d3b5a5639fdb2a9892974069dce74.jpg?raw=true">
+    		
+  	</div>
+  	
+  	<style>
+		.wireframe-2-child {
+  	position: absolute;
+  	top: 195px;
+  	left: 776px;
+  	box-shadow: 0px 4px 22.3px 2px rgba(0, 0, 0, 0.25);
+  	border-radius: 50%;
+  	background-color: #fff;
+  	width: 645px;
+  	height: 634px;
+}
+.wireframe-2-item {
+  	position: absolute;
+  	top: 60px;
+  	left: 1183px;
+  	border-radius: 9px;
+  	background-color: #c40f0f;
+  	width: 149px;
+  	height: 47px;
+}
+.wireframe-2-inner {
+  	position: absolute;
+  	top: 60px;
+  	left: 1025px;
+  	border-radius: 9px;
+  	background-color: #fff;
+  	border: 1px solid #c40f0f;
+  	box-sizing: border-box;
+  	width: 149px;
+  	height: 47px;
+}
+.home {
+  	position: absolute;
+  	top: 71px;
+  	left: 426px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	display: inline-block;
+  	width: 70px;
+}
+.compra {
+  	position: absolute;
+  	top: 71px;
+  	left: 505px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	display: inline-block;
+  	width: 100px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 229px;
+  	left: 804px;
+  	border-radius: 50%;
+  	background-color: #c40f0f;
+  	width: 590px;
+  	height: 566px;
+}
+.r-1-icon {
+  	position: absolute;
+  	top: 291px;
+  	left: 811px;
+  	width: 577px;
+  	height: 442px;
+  	object-fit: cover;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 559px;
+  	left: 97px;
+  	box-shadow: 0px 4px 7.7px rgba(0, 0, 0, 0.25);
+  	background-color: #eeeded;
+  	width: 586px;
+  	height: 236px;
+}
+.seu-estilo-de {
+  	position: absolute;
+  	top: 277px;
+  	left: 109px;
+  	font-size: 64px;
+  	font-family: Candal;
+  	display: inline-block;
+  	width: 524px;
+}
+.serra-gacha-litoral {
+  	position: absolute;
+  	top: 458px;
+  	left: 106px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	font-family: 'Darker Grotesque';
+  	display: inline-block;
+  	width: 538px;
+  	height: 33px;
+}
+.wireframe-2-child1 {
+  	position: absolute;
+  	top: 559px;
+  	left: 95px;
+  	background-color: #c40f0f;
+  	width: 191px;
+  	height: 76px;
+}
+.compra1 {
+  	position: absolute;
+  	top: 587px;
+  	left: 156px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.tipo-de-imvel {
+  	position: absolute;
+  	top: 587px;
+  	left: 342px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.localizao {
+  	position: absolute;
+  	top: 586px;
+  	left: 531px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.wireframe-2-child2 {
+  	position: absolute;
+  	top: 634px;
+  	left: 97px;
+  	background-color: #fff;
+  	width: 586px;
+  	height: 161px;
+}
+.wireframe-2-child3 {
+  	position: absolute;
+  	top: 666px;
+  	left: 134px;
+  	background-color: #eeeded;
+  	width: 513px;
+  	height: 67px;
+}
+.wireframe-2-child4 {
+  	position: absolute;
+  	top: 666px;
+  	left: 548px;
+  	background-color: #c40f0f;
+  	width: 99px;
+  	height: 67px;
+}
+.os-melhores-imveis {
+  	position: absolute;
+  	top: 942px;
+  	left: 139px;
+  	font-size: 40px;
+  	font-family: Candal;
+}
+.wireframe-2-child5 {
+  	position: absolute;
+  	top: 1187px;
+  	left: 0px;
+  	background-color: #960000;
+  	width: 1440px;
+  	height: 542px;
+}
+.line-div {
+  	position: absolute;
+  	top: 975px;
+  	left: 58px;
+  	border-top: 8px solid #000;
+  	box-sizing: border-box;
+  	width: 70px;
+  	height: 8px;
+}
+.wireframe-2-child6 {
+  	position: absolute;
+  	top: 1083px;
+  	left: 516px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-2-child7 {
+  	position: absolute;
+  	top: 1083px;
+  	left: 69px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-2-child8 {
+  	position: absolute;
+  	top: 1083px;
+  	left: 963px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.oip-1-icon {
+  	position: absolute;
+  	top: 1083px;
+  	left: 69px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-095 {
+  	position: absolute;
+  	top: 1083px;
+  	left: 516px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-0951 {
+  	position: absolute;
+  	top: 1083px;
+  	left: 963px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.wireframe-2-child9 {
+  	position: absolute;
+  	top: 1599.5px;
+  	left: 145.5px;
+  	border-top: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 1147px;
+  	height: 1px;
+}
+.login {
+  	position: absolute;
+  	top: 72px;
+  	left: 1228px;
+  	font-size: 20px;
+  	font-family: 'Droid Sans';
+  	color: #fff;
+}
+.cadastrar {
+  	position: absolute;
+  	top: 73px;
+  	left: 1045px;
+  	font-size: 20px;
+  	font-family: 'Droid Sans';
+  	color: #0148ff;
+  	display: inline-block;
+  	width: 109px;
+  	height: 17px;
+}
+.wireframe-2-child10 {
+  	position: absolute;
+  	top: 673.5px;
+  	left: 346.5px;
+  	border-right: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 52.7px;
+}
+.wireframe-2-child11 {
+  	position: absolute;
+  	top: 684px;
+  	left: 575px;
+  	border-radius: 50%;
+  	background-color: #c40f0f;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 24px;
+  	height: 23px;
+}
+.line-icon {
+  	position: absolute;
+  	top: 704px;
+  	left: 595px;
+  	width: 12px;
+  	height: 7px;
+  	object-fit: contain;
+}
+.wireframe-2-child12 {
+  	position: absolute;
+  	top: 4060px;
+  	left: 283px;
+  	box-shadow: 0px 4px 12.3px rgba(0, 0, 0, 0.25);
+  	border-radius: 9px;
+  	background-color: #fff;
+  	width: 874px;
+  	height: 1007px;
+}
+.cadastre-seu-imvel {
+  	position: absolute;
+  	top: 3958px;
+  	left: 431px;
+  	font-size: 48px;
+  	font-family: 'Dela Gothic One';
+}
+.wireframe-2-child13 {
+  	position: absolute;
+  	top: 4127px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child14 {
+  	position: absolute;
+  	top: 4245px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child15 {
+  	position: absolute;
+  	top: 4363px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child16 {
+  	position: absolute;
+  	top: 4481px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child17 {
+  	position: absolute;
+  	top: 4589px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child18 {
+  	position: absolute;
+  	top: 4697px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child19 {
+  	position: absolute;
+  	top: 4805px;
+  	left: 405px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-2-child20 {
+  	position: absolute;
+  	top: 4933px;
+  	left: 591px;
+  	border-radius: 26px;
+  	background-color: #750000;
+  	width: 259px;
+  	height: 86px;
+}
+.nome {
+  	position: absolute;
+  	top: 4150px;
+  	left: 431px;
+}
+.cpf {
+  	position: absolute;
+  	top: 4268px;
+  	left: 431px;
+}
+.tipo-de-imvel1 {
+  	position: absolute;
+  	top: 4387px;
+  	left: 431px;
+  	display: inline-block;
+  	width: 176px;
+  	height: 28px;
+}
+.cep {
+  	position: absolute;
+  	top: 4504px;
+  	left: 431px;
+}
+.estado {
+  	position: absolute;
+  	top: 4612px;
+  	left: 431px;
+}
+.email {
+  	position: absolute;
+  	top: 4720px;
+  	left: 431px;
+}
+.telefone {
+  	position: absolute;
+  	top: 4828px;
+  	left: 431px;
+}
+.enviar {
+  	position: absolute;
+  	top: 4952px;
+  	left: 650px;
+  	font-size: 36px;
+  	font-family: Candal;
+  	color: #fff;
+}
+.captura-de-tela-2024-10-15-094 {
+  	position: absolute;
+  	top: 26px;
+  	left: 49px;
+  	width: 298px;
+  	height: 81px;
+  	object-fit: cover;
+}
+.lanamentos {
+  	position: absolute;
+  	top: 71px;
+  	left: 607px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	display: inline-block;
+  	width: 173px;
+}
+.blog {
+  	position: absolute;
+  	top: 71px;
+  	left: 768px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	display: inline-block;
+  	width: 62px;
+}
+.contato {
+  	position: absolute;
+  	top: 71px;
+  	left: 841px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	display: inline-block;
+  	width: 106px;
+}
+.oip-12-icon {
+  	position: absolute;
+  	top: 2283px;
+  	left: 73px;
+  	width: 616px;
+  	height: 296px;
+  	object-fit: cover;
+}
+.melhores-cidades-de-santa-cata-icon {
+  	position: absolute;
+  	top: 2283px;
+  	left: 751px;
+  	width: 616px;
+  	height: 296px;
+  	object-fit: cover;
+}
+.wireframe-2-child21 {
+  	position: absolute;
+  	top: 1392px;
+  	left: 95px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-2-child22 {
+  	position: absolute;
+  	top: 1356px;
+  	left: 95px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-2-child23 {
+  	position: absolute;
+  	top: 1392px;
+  	left: 546px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-2-child24 {
+  	position: absolute;
+  	top: 1355px;
+  	left: 546px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-2-child25 {
+  	position: absolute;
+  	top: 1392px;
+  	left: 995px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-2-child26 {
+  	position: absolute;
+  	top: 1355px;
+  	left: 995px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-2-child27 {
+  	position: absolute;
+  	top: 5793px;
+  	left: 0px;
+  	background-color: #750000;
+  	width: 1440px;
+  	height: 137px;
+}
+.wireframe-2-child28 {
+  	position: absolute;
+  	top: 5206px;
+  	left: 184px;
+  	box-shadow: 0px 4px 10.2px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #e7e2e2;
+  	width: 486px;
+  	height: 448px;
+}
+.wireframe-2-child29 {
+  	position: absolute;
+  	top: 5206px;
+  	left: 770px;
+  	box-shadow: 0px 4px 10.2px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #e7e2e2;
+  	width: 486px;
+  	height: 448px;
+}
+.itapema {
+  	margin: 0;
+  	font-size: 36px;
+}
+.rua-270-26-meia-praia {
+  	margin: 0;
+}
+.blank-line {
+  	margin: 0;
+  	font-size: 32px;
+}
+.s-1900h {
+  	margin: 0;
+  	font-family: Caladea;
+}
+.itapema-rua-270-container {
+  	position: absolute;
+  	top: 5257px;
+  	left: 267px;
+  	text-align: center;
+  	display: inline-block;
+  	width: 321px;
+  	height: 239px;
+  	font-family: Cambay;
+}
+.carlos-barbosa-rua-container {
+  	position: absolute;
+  	top: 5257px;
+  	left: 834px;
+  	font-family: Cambay;
+  	text-align: center;
+  	display: inline-block;
+  	width: 359px;
+  	height: 298px;
+}
+.wireframe-2-child30 {
+  	position: absolute;
+  	top: 5539px;
+  	left: 832px;
+  	border-radius: 26px;
+  	background-color: #000;
+  	width: 362px;
+  	height: 72px;
+}
+.wireframe-2-child31 {
+  	position: absolute;
+  	top: 5539px;
+  	left: 246px;
+  	border-radius: 26px;
+  	background-color: #000;
+  	width: 362px;
+  	height: 72px;
+}
+.div {
+  	position: absolute;
+  	top: 5555px;
+  	left: 325px;
+  	font-family: Bevan;
+  	color: #fff;
+  	text-align: center;
+}
+.div1 {
+  	position: absolute;
+  	top: 5555px;
+  	left: 911px;
+  	font-family: Bevan;
+  	color: #fff;
+  	text-align: center;
+}
+.wireframe-2-child32 {
+  	position: absolute;
+  	top: 2398px;
+  	left: 212px;
+  	border-radius: 41px;
+  	background-color: rgba(255, 255, 255, 0.92);
+  	width: 339px;
+  	height: 66px;
+}
+.rio-grande-do {
+  	position: absolute;
+  	top: 2411px;
+  	left: 295px;
+  	font-family: Bayon;
+  	text-align: center;
+  	display: inline-block;
+  	width: 173px;
+  	height: 39px;
+}
+.wireframe-2-child33 {
+  	position: absolute;
+  	top: 2398px;
+  	left: 890px;
+  	border-radius: 41px;
+  	background-color: rgba(255, 255, 255, 0.92);
+  	width: 339px;
+  	height: 66px;
+}
+.santa-catarina {
+  	position: absolute;
+  	top: 2411px;
+  	left: 991px;
+  	font-family: Bayon;
+  	text-align: center;
+  	display: inline-block;
+  	width: 137px;
+  	height: 32px;
+}
+.captura-de-tela-2024-10-15-115 {
+  	position: absolute;
+  	height: 100%;
+  	width: 23.26%;
+  	top: 0%;
+  	right: 76.74%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-1151 {
+  	position: absolute;
+  	height: 100%;
+  	width: 23.26%;
+  	top: 0%;
+  	right: 51.16%;
+  	bottom: 0%;
+  	left: 25.58%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-1152 {
+  	position: absolute;
+  	height: 100%;
+  	width: 23.26%;
+  	top: 0%;
+  	right: 25.58%;
+  	bottom: 0%;
+  	left: 51.16%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-1153 {
+  	position: absolute;
+  	height: 100%;
+  	width: 23.26%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 76.74%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-115-parent {
+  	position: absolute;
+  	height: 100%;
+  	width: 429.89%;
+  	top: 0%;
+  	right: -329.89%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.component-2 {
+  	position: absolute;
+  	top: 2694px;
+  	left: 159px;
+  	box-shadow: 0px 4px 12.1px rgba(0, 0, 0, 0.25);
+  	background-color: #fff;
+  	width: 1124px;
+  	height: 516px;
+  	overflow: hidden;
+}
+.captura-de-tela-2024-10-15-120 {
+  	position: absolute;
+  	top: 1797px;
+  	left: 256px;
+  	width: 928px;
+  	height: 409px;
+  	object-fit: cover;
+}
+.wireframe-2-child34 {
+  	position: absolute;
+  	top: 3267px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1441px;
+  	height: 605px;
+}
+.r-5-1 {
+  	position: absolute;
+  	top: 3336px;
+  	left: 121px;
+  	width: 529px;
+  	height: 397px;
+  	object-fit: cover;
+}
+.r-6-1 {
+  	position: absolute;
+  	top: 3422px;
+  	left: 751px;
+  	width: 587px;
+  	height: 296px;
+  	object-fit: cover;
+}
+.wireframe-2 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fafafa;
+  	height: 5930px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Dhyana;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
